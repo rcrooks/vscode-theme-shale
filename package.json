@@ -16,6 +16,11 @@
                 "label": "Shale",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Shale-color-theme.json"
+            },
+            {
+                "label": "Shale Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shale-Italic-color-theme.json"
             }
         ]
     },
