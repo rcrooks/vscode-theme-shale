@@ -62,7 +62,31 @@
 			"settings": {
 				"foreground": "#D8DEE9"
 			}
-		},
+    },
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#729098",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#63B0C6",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#E9AEBA",
+        "fontStyle": "italic"
+      }
+    },
 		{
 			"name": "Extra: Diff Range",
 			"scope": [
